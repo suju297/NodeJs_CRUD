@@ -1,0 +1,23 @@
+{
+  "name": "credence_assignment",
+  "version": "1.0.0",
+  "description": "Node.js CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sujendra"
+  },
+  "author": "Sujendra",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-logger": "0.0.3",
+    "mongoose": "^6.0.3"
+  }
+}
